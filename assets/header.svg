@@ -1,0 +1,66 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="28" x2="1160" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF3F8"/>
+      <stop offset="0.48" stop-color="#F4ECFF"/>
+      <stop offset="1" stop-color="#E8F4FF"/>
+    </linearGradient>
+    <radialGradient id="orbPink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 90) rotate(90) scale(120 120)">
+      <stop stop-color="#FFB3C7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFB3C7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 100) rotate(90) scale(140 140)">
+      <stop stop-color="#9FD3FF" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#9FD3FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="833" y1="72" x2="1138" y2="262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#FFF7FB" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="1260" height="340" rx="34" fill="url(#bg)"/>
+  <rect x="10" y="10" width="1260" height="340" rx="34" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="2"/>
+
+  <circle cx="220" cy="90" r="120" fill="url(#orbPink)"/>
+  <circle cx="1080" cy="100" r="140" fill="url(#orbBlue)"/>
+  <circle cx="960" cy="280" r="90" fill="#FFE5F0" fill-opacity="0.45"/>
+  <circle cx="120" cy="278" r="78" fill="#FFF0B8" fill-opacity="0.35"/>
+
+  <path d="M985 68C1005.4 43.1 1042.8 38.3 1068.8 57.4C1070.5 58.7 1071.1 60.9 1070.1 62.8C1069.2 64.7 1067.2 65.8 1065.1 65.6C1043.4 63.4 1021.6 73.4 1009.1 91.4C1008 92.9 1006.2 93.7 1004.3 93.3C1002.4 92.9 1000.8 91.3 1000.4 89.3C998.6 81.9 993.1 74.9 985.6 70.9C983.9 70 983.1 68.3 983.4 66.4C983.7 64.6 985.1 63.1 986.9 62.6C999.9 59.2 1012.3 54.7 1022.7 46.7" fill="#FFF8D7" fill-opacity="0.9"/>
+
+  <path d="M114 86C119.4 72.5 132.9 64.4 147.1 66.3C148.7 66.5 149.9 67.8 150.1 69.4C150.2 71 149.4 72.5 147.9 73.1C139.6 76.8 133.5 84.4 131.8 93.3C131.5 94.9 130.2 96.1 128.5 96.3C126.9 96.4 125.3 95.5 124.6 94C121.3 86.9 115.5 81.3 108.2 78.3C106.7 77.7 105.8 76.2 105.9 74.6C106 73 107.1 71.7 108.7 71.4C116.8 69.9 124.1 65.4 128.6 58.5" fill="#FFF4FA" fill-opacity="0.95"/>
+
+  <g opacity="0.8">
+    <path d="M1042 230L1046 239L1055 243L1046 247L1042 256L1038 247L1029 243L1038 239L1042 230Z" fill="#FF8EB8"/>
+    <path d="M1092 258L1095 264L1102 267L1095 270L1092 276L1089 270L1082 267L1089 264L1092 258Z" fill="#8EC5FF"/>
+    <path d="M1180 92L1183 99L1190 102L1183 105L1180 112L1177 105L1170 102L1177 99L1180 92Z" fill="#FFD166"/>
+    <path d="M210 286L214 294L222 297L214 300L210 308L206 300L198 297L206 294L210 286Z" fill="#FFC4D9"/>
+    <path d="M152 126L155 132L161 135L155 138L152 144L149 138L143 135L149 132L152 126Z" fill="#9FD3FF"/>
+  </g>
+
+  <g opacity="0.72">
+    <path d="M201 208C211 196 224 206 220 217C216 228 201 232 193 224C187 218 191 210 201 208Z" fill="#FFB8D2"/>
+    <path d="M242 232C250 223 262 229 260 239C257 249 244 253 237 247C231 242 234 235 242 232Z" fill="#FFD5E5"/>
+    <path d="M1088 188C1097 178 1110 184 1108 194C1105 204 1092 208 1085 202C1079 197 1080 191 1088 188Z" fill="#FFD5E5"/>
+    <path d="M1129 210C1136 202 1147 206 1146 215C1143 224 1132 228 1125 223C1120 219 1122 213 1129 210Z" fill="#FFBCD5"/>
+  </g>
+
+  <text x="86" y="88" fill="#C06C84" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" letter-spacing="4">WELCOME TO MY DIGITAL WORLD</text>
+  <text x="86" y="160" fill="#3D405B" font-family="'Trebuchet MS', 'Microsoft YaHei', sans-serif" font-size="54" font-weight="700">im10furry · 黑啤</text>
+  <text x="86" y="206" fill="#6D597A" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="24">Code • ACG • Open Source • Creative Playground</text>
+  <text x="86" y="246" fill="#8D6A9F" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="20">在代码和幻想之间，慢慢搭建属于自己的世界。</text>
+  <text x="86" y="285" fill="#A37B90" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18">コードと夢のあいだで、少しずつ、自分だけの宇宙をつくる。</text>
+
+  <rect x="830" y="72" width="320" height="188" rx="26" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="2"/>
+  <text x="862" y="108" fill="#D16D94" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700">PROFILE STATUS</text>
+
+  <rect x="862" y="126" width="256" height="36" rx="18" fill="#FFF1F6"/>
+  <text x="882" y="149" fill="#5C5470" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="16">Class: Full-time daydreaming developer</text>
+
+  <rect x="862" y="172" width="256" height="36" rx="18" fill="#EEF7FF"/>
+  <text x="882" y="195" fill="#5C5470" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="16">Buff: UI polishing + late-night inspiration</text>
+
+  <rect x="862" y="218" width="256" height="36" rx="18" fill="#FFF7E8"/>
+  <text x="882" y="241" fill="#5C5470" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="16">Quest: Build things that people remember</text>
+</svg>
