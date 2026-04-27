@@ -1,4 +1,4 @@
-# <div align="center">欢迎来到 `im10furry · 黑啤` 的小宇宙</div>
+# <div align="center">欢迎来到 `im10furry · 黑啤` 的Github</div>
 
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="im10furry GitHub Profile Header" />
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <sub>GitHub 上是 <code>im10furry</code>，中文是 <code>黑啤</code>。</sub>
+  <sub> Finding Coding Building </code>。</sub>
 </div>
 
 ## 🌸 关于我
