@@ -1,14 +1,9 @@
-# <div align="center">欢迎来到 `im10furry · 黑啤` 的Github</div>
-
-<div align="center">
-  <img src="./assets/header.svg" width="100%" alt="im10furry GitHub Profile Header" />
-</div>
+# <div align="center">This is `im10furry` </div>
 
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=im10furry&label=PROFILE%20VIEWS&color=ff9fc9&style=for-the-badge)
   ![ACG Mode](https://img.shields.io/badge/ACG%20MODE-ON-ffc8dd?style=for-the-badge)
-  ![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-LOADING-bde0fe?style=for-the-badge)
 
 </div>
 
@@ -22,19 +17,12 @@
   <sub> Finding Coding Building </code>。</sub>
 </div>
 
-## 🌸 关于我
+## 🌸 About Me
 
 | 属性 | 内容 |
 | --- | --- |
 | `ID` | `im10furry` |
-| `中文别称` | `黑啤` |
-| `职业设定` | 二次元开发者 |
-| `当前状态` | 一边写代码，一边给自己的仓库添油加醋 |
-
-## ✨ 当前任务栏
-
-- 👯 想一起合作：`开源项目、创意页面、小工具、ACG 向内容`
-- 💬 可以来聊：`技术、Furry、二次元文化`
+| `Chinese` | `黑啤` |
 
 ## 🪄 技能树
 
@@ -51,7 +39,7 @@
   <img src="https://img.shields.io/badge/GitHub-d8e2dc?style=flat-square&logo=github&logoColor=3d405b" alt="GitHub" />
 </div>
 
-## 📊 角色面板
+## Panel
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=im10furry&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=eb6f92&icon_color=9ccfd8&text_color=575279" alt="GitHub Stats" />
@@ -62,7 +50,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=im10furry&bg_color=fffafc&color=6d597a&line=eb6f92&point=9ccfd8&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
-## 🎐 联系方式
+## 🎐 How to find me
 
 | 平台 | 账号 |
 | --- | --- |
@@ -71,10 +59,8 @@
 | `QQ` | `1936409761` |
 | `Email` | `xiaoliuwj.china@gmail.com` |
 
-> 如果你是因为项目、页面设计、脚本工具或者单纯同好交流而来，直接联系我就行。
-
 ---
 
 <div align="center">
-  <sub>Made with love, caffeine, and a little bit of ACG magic.</sub>
+  <sub>Made with love.</sub>
 </div>
