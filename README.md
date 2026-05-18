@@ -54,8 +54,6 @@
 
 | 平台 | 账号 |
 | --- | --- |
-| `GitHub` | [@im10furry](https://github.com/im10furry) |
-| `WeChat` | `Liuwj315` |
 | `QQ` | `1936409761` |
 | `Email` | `xiaoliuwj.china@gmail.com` |
 
