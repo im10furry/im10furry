@@ -1,29 +1,12 @@
-# <div align="center">This is `im10furry` </div>
+# <div align="center">`im10furry`</div>
 
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=im10furry&label=PROFILE%20VIEWS&color=ff9fc9&style=for-the-badge)
-  ![ACG Mode](https://img.shields.io/badge/ACG%20MODE-ON-ffc8dd?style=for-the-badge)
-
-</div>
-
-<div align="center">
-
 > 「把灵感写进代码，把喜欢的东西做成作品。」
-
 </div>
-
 <div align="center">
   <sub> Finding Coding Building </code>。</sub>
-</div>
-
-## 🌸 About Me
-
-| 属性 | 内容 |
-| --- | --- |
-| `ID` | `im10furry` |
-| `Chinese` | `黑啤` |
-
+</div
+  
 ## 🪄 技能树
 
 <div align="center">
@@ -39,25 +22,9 @@
   <img src="https://img.shields.io/badge/GitHub-d8e2dc?style=flat-square&logo=github&logoColor=3d405b" alt="GitHub" />
 </div>
 
-## Panel
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=im10furry&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=eb6f92&icon_color=9ccfd8&text_color=575279" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im10furry&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=eb6f92&text_color=575279" alt="Top Languages" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=im10furry&bg_color=fffafc&color=6d597a&line=eb6f92&point=9ccfd8&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
-
-## 🎐 How to find me
-
-| 平台 | 账号 |
-| --- | --- |
-| `QQ` | `1936409761` |
-| `Email` | `xiaoliuwj.china@gmail.com` |
-
----
 
 <div align="center">
   <sub>Made with love.</sub>
