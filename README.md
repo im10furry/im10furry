@@ -23,24 +23,13 @@
 <img src="https://img.shields.io/badge/Rust-1f6feb?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-1f6feb?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-1f6feb?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/C-1f6feb?style=flat-square&logo=c&logoColor=white" alt="C" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Node.js-1f6feb?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/React-1f6feb?style=flat-square&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Vue-1f6feb?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-<img src="https://img.shields.io/badge/HTML5-1f6feb?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS-1f6feb?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Anthropic-1f6feb?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/OpenAI-1f6feb?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Git-1f6feb?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-1f6feb?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Linux-1f6feb?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
 
 </div>
