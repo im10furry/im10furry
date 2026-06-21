@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Finding+%2F+Coding+%2F+Building;Rust%2C+AI+Agents%2C+CLI+%2F+TUI;Pursuing+innovation%2C+keeping+up+with+the+forefront" alt="typing" />
 </a>
 
-<p>Developers from China — building things at the frontier.</p>
+<p>Turning ideas into code, one commit at a time.</p>
 <p><sub>「把灵感写进代码，把喜欢的东西做成作品。」</sub></p>
 
 <img src="https://komarev.com/ghpvc/?username=im10furry&style=flat-square&color=1f6feb&label=Profile%20views" alt="views" />
