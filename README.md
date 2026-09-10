@@ -3,7 +3,7 @@
 # im10furry
 
 <a href="https://github.com/im10furry">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Finding+%2F+Coding+%2F+Building;Rust%2C+AI+Agents%2C+CLI+%2F+TUI;Pursuing+innovation%2C+keeping+up+with+the+forefront" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Finding+%2F+Coding+%2F+Building;Golang%2C+Agents%2C+Recat+%2F+Vue;Pursuing+innovation%2C+keeping+up+with+the+forefront" alt="typing" />
 </a>
 
 <p>Turning ideas into code, one commit at a time.</p>
@@ -50,16 +50,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=im10furry&hide_border=true&background=0a192f&ring=58a6ff&fire=64ffda&currStreakNum=ccd6f6&currStreakLabel=58a6ff&sideNums=ccd6f6&sideLabels=8892b0&dates=8892b0&stroke=58a6ff" alt="streak" />
-
-</div>
-
----
-
-### Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=im10furry&custom_title=Contribution%20Graph&bg_color=0a192f&color=ccd6f6&line=58a6ff&point=64ffda&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
